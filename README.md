@@ -1,6 +1,4 @@
-# Pymaceuticals
-# Module 5 HW
-Overview
+# Overview
 
 This project analyzes a clinical study conducted by Pymaceuticals, Inc., a pharmaceutical company specializing in anti-cancer medications. The study investigated the effectiveness of several drug regimens, including Capomulin, on squamous cell carcinoma (SCC), a common form of skin cancer. The dataset includes tumor volume observations for 249 mice over 45 days. The analysis generates tables, charts, and statistical insights to support a technical report for the executive team.
 
@@ -66,4 +64,4 @@ Open the pymaceuticals_starter.ipynb notebook in JupyterLab or any compatible en
 Run the cells sequentially to execute the analysis.
 Review outputs, including visualizations and statistical summaries.
 
-
+<!--Mod 5-->
