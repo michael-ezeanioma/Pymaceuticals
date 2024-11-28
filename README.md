@@ -8,17 +8,22 @@ __1. Prepare the Data:__
 Merge mouse metadata and study results into a single dataset.
 Identify and remove duplicate entries to ensure data integrity.
 Verify the number of unique mice IDs in the cleaned dataset.
+
 __2. Generate Summary Statistics:__
 Calculate key metrics (mean, median, variance, standard deviation, SEM) for tumor volume under each drug regimen.
+
 __3. Create Visualizations:__
 Bar charts to represent the total timepoints for each drug regimen.
 Pie charts to visualize the gender distribution of mice in the study.
+
 __4. Perform Statistical Analysis:__
 Calculate quartiles, interquartile ranges (IQR), and identify outliers in tumor volumes for selected drug regimens.
 Create a box plot to display the distribution of final tumor volumes.
+
 __5. Explore Treatment Trends:__
 Line plot of tumor volume vs. time for a single mouse treated with Capomulin.
 Scatter plot of average tumor volume vs. mouse weight for the Capomulin regimen.
+
 __6. Analyze Correlation and Regression:__
 Compute the correlation coefficient between mouse weight and tumor volume.
 Fit a linear regression model to the scatter plot data.
