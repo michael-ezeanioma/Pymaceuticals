@@ -4,7 +4,7 @@ This project analyzes a clinical study conducted by Pymaceuticals, Inc., a pharm
 
 # Objectives
 
-** 1. Prepare the Data: ** 
+__1. Prepare the Data:__
 Merge mouse metadata and study results into a single dataset.
 Identify and remove duplicate entries to ensure data integrity.
 Verify the number of unique mice IDs in the cleaned dataset.
