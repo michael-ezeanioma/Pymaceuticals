@@ -48,7 +48,7 @@ __6. Correlation and Regression Analysis:__
 Calculate and interpret the correlation coefficient.
 Overlay a linear regression line on the scatter plot for Capomulin data.
 
-# Tools and Libraries
+## Tools and Libraries
 Pandas: For data manipulation and summarization.
 Matplotlib: For creating visualizations.
 SciPy Stats: For statistical calculations.
