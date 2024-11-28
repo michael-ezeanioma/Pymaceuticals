@@ -38,17 +38,23 @@ Study Results: Dataset with tumor volume observations.
 __1. Data Preparation:__
 Import required libraries and datasets.
 Merge datasets and clean duplicates for accurate analysis.
+
 __2. Summary Statistics:__
 Group data by drug regimen to calculate statistics and create a summary DataFrame.
+
 __3. Visualization:__
 Bar and pie charts for drug regimens and gender distributions using both Pandas and Matplotlib.
+
 __4. Outlier Detection:__
 Group data by mouse ID to isolate the last timepoint.
 Analyze tumor volume distributions for Capomulin, Ramicane, Infubinol, and Ceftamin.
 Highlight outliers in a box plot.
+
 __5. Treatment-Specific Trends:__
 Generate a line plot for tumor volume changes over time for a specific mouse on Capomulin.
+
 Create a scatter plot to explore relationships between mouse weight and tumor volume under Capomulin.
+
 __6. Correlation and Regression Analysis:__
 Calculate and interpret the correlation coefficient.
 Overlay a linear regression line on the scatter plot for Capomulin data.
